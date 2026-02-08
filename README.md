@@ -166,7 +166,3 @@ If you want the notebook-style deep dive docs (with diagrams), read:
 - deduping and sorting detected constants
 - keeping analysis rule-based (no emulation)
 - using conservative tables for syscalls and conditional jumps
-
-## License
-
-Choose a license if you plan to publish this.
